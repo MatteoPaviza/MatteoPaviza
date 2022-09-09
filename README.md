@@ -15,7 +15,7 @@
 
 - 📫 How to reach me ...
     - on Discord: disa#0001
-    - on Twitter: @disa86_
+    - on Twitter: @disaspeedrun
 
 <!---
 MatteoPaviza/MatteoPaviza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
